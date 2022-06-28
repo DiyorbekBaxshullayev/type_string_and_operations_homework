@@ -1,3 +1,6 @@
+from re import X
+
+
 def main():
     """"Return an optional string of length eight
     Args:
@@ -5,4 +8,6 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+  
+X='12345678'
+print(X)
