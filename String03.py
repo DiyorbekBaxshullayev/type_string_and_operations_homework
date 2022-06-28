@@ -1,10 +1,14 @@
-def main():
+from this import s
+
+
+def main(s):
     """
     "*" Return a string that consists of only this character and is five in length.
     Args:
         None
     Returns:
         str: return answer.
-    """
-s='*'*5
-print(s)
+    """    
+    return s
+
+print('*'*5)
