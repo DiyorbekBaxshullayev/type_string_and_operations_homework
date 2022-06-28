@@ -5,5 +5,8 @@ def main():
         None
     Returns:
         str: return answer.
-    """
-print('hello world'.upper())
+     """
+
+s='hello world'
+
+print(s.upper())
