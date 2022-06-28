@@ -9,5 +9,5 @@ def main():
         str: return answer.
     """
   
-X='12345678'
+X=' "12345678" '
 print(X)
